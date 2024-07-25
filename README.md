@@ -1,4 +1,6 @@
 # Hide-text-in-image-Steganography
+# NOTE : This program is for PNG type image formats because of their LOSSLESS compression.JPG images use lossy compression, which can alter the pixel values, potentially corrupting the hidden message.
+
 ##NOTE: To decrypt the Modified_secret.png .  -> PASSCODE : passcode
 
 What is Steganography ?
