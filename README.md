@@ -1,6 +1,5 @@
 # Hide-text-in-image-Steganography
 
-#NOTE : This is only for PNG type images. Beacause of lossless compression.
 
 What is Steganography ?
 Steganography is the practice of concealing a secret message within another non-secret medium, such as an image, audio file, or text document. Unlike cryptography, which makes data unreadable to unauthorized users, steganography hides the existence of the data itself. This technique can be used for secure communication, where the hidden message remains invisible to unintended recipients while being easily retrievable by those who know the method to uncover it.
